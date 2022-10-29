@@ -1,0 +1,32 @@
+/* navigation */
+#navbar{
+    flex-direction: column;
+}
+
+/* home-section */
+#home{
+    height: 280px;
+}
+#home::before{
+    height: 450px;
+}
+#home{
+    font-size: 13px;
+}
+
+/* services-section */
+#services{
+    flex-direction: column;
+}
+/* client-section */
+
+
+/* contat-us */
+
+
+/* footer  */
+
+/* utility classes */
+.h-primary{
+    font-size: 25px;
+}
